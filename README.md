@@ -14,7 +14,7 @@ It is a GUI based handwritten digit recognition project where the model is train
 - PIL<br />
 
 # Demo video:
-![Multiple Handwritten](https://user-images.githubusercontent.com/43297280/105629928-f92f3980-5e6d-11eb-95f3-a261a58d112b.gif)
+![multi](https://user-images.githubusercontent.com/43297280/105633707-4ae1bf00-5e82-11eb-9ced-fb467d9d2dc7.gif)
 
 
 # Output screenshots:
