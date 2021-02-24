@@ -1,5 +1,5 @@
 # Multiple-Handwritten-Digit-Recognition
-It is a GUI based handwritten digit recognition project where the model is trained on MNIST handwritten datasets using Convoliutional Neural Network (CNN).<br />
+It is a GUI based handwritten digit recognition project where the model is trained on MNIST handwritten datasets using Convolutional Neural Network (CNN).<br />
 # Main features:<br />
 - contains canvas to write digits by hand<br />
 - simple and easy to use GUI<br />
